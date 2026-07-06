@@ -4,7 +4,7 @@ Bem-vindo ao material de consulta do Módulo 1. Aqui você encontrará os concei
 
 ---
 
-## 💻 1. Ambiente de Desenvolvimento (IDE)
+## 1. Ambiente de Desenvolvimento (IDE)
 
 Para programar as placas de desenvolvimento (como Arduino, ESP32, etc.), utilizamos a **Arduino IDE**.
 
@@ -14,7 +14,7 @@ Para programar as placas de desenvolvimento (como Arduino, ESP32, etc.), utiliza
 
 ---
 
-## ⚡ 2. Conceitos Básicos de Eletricidade e Eletrônica
+## 2. Conceitos Básicos de Eletricidade e Eletrônica
 
 Para criar circuitos em IoT, precisamos entender três grandezas fundamentais (Lei de Ohm):
 
@@ -28,16 +28,16 @@ Para criar circuitos em IoT, precisamos entender três grandezas fundamentais (L
 
 ---
 
-## 🔌 3. Montagem de Circuitos Elétricos
+## 3. Montagem de Circuitos Elétricos
 
 Em nosso laboratório, utilizamos a **Protoboard (Matriz de Contatos)** para testar circuitos sem solda.
-
+![Texto Alternativo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi2.wp.com%2Fportal.vidadesilicio.com.br%2Fwp-content%2Fuploads%2F2018%2F03%2Fprotoboard-1.png%3Fresize%3D698%252C422%26ssl%3D1&sp=1783378362T38daae0bb76b3347c57f2d426bee3e5bdd0dfc8907f4a4c5b53f89dd324f14c6)
 * **Linhas Laterais (+ e -):** Conectadas horizontalmente (geralmente usadas para Alimentação e GND).
 * **Colunas Centrais (A, B, C...):** Conectadas verticalmente. Componentes em uma mesma coluna estão interligados.
 
 ---
 
-## 📜 4. Programação: Estrutura Básica do Código
+## 4. Programação: Estrutura Básica do Código
 
 Todo código em C/C++ do Arduino possui duas funções obrigatórias:
 

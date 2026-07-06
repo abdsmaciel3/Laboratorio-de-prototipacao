@@ -31,7 +31,7 @@ Para criar circuitos em IoT, precisamos entender três grandezas fundamentais (L
 ## 3. Montagem de Circuitos Elétricos
 
 Em nosso laboratório, utilizamos a **Protoboard (Matriz de Contatos)** para testar circuitos sem solda.
-![Ilustração de protoboard](https://cdn.bodanius.com/uploads/1/0a1a3f6a0b7a618627cbf291c9ff2afee1d706e67_400x.png)
+![Imagem protoboard](https://i0.wp.com/portal.vidadesilicio.com.br/wp-content/uploads/2018/03/Protoboard-todos-os-barramentos.jpg?resize=527%2C396&ssl=1)
 * **Linhas Laterais (+ e -):** Conectadas horizontalmente (geralmente usadas para Alimentação e GND).
 * **Colunas Centrais (A, B, C...):** Conectadas verticalmente. Componentes em uma mesma coluna estão interligados.
 

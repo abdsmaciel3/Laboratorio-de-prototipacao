@@ -1,4 +1,4 @@
-# Módulo 1: Ambiente de Prototipagem 🛠️
+# Módulo 1: Ambiente de Prototipagem 
 
 Bem-vindo ao material de consulta do Módulo 1. Aqui você encontrará os conceitos básicos discutidos em aula, guias de configuração e os links para os projetos práticos que desenvolvemos.
 
@@ -31,7 +31,7 @@ Para criar circuitos em IoT, precisamos entender três grandezas fundamentais (L
 ## 3. Montagem de Circuitos Elétricos
 
 Em nosso laboratório, utilizamos a **Protoboard (Matriz de Contatos)** para testar circuitos sem solda.
-![Texto Alternativo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi2.wp.com%2Fportal.vidadesilicio.com.br%2Fwp-content%2Fuploads%2F2018%2F03%2Fprotoboard-1.png%3Fresize%3D698%252C422%26ssl%3D1&sp=1783378362T38daae0bb76b3347c57f2d426bee3e5bdd0dfc8907f4a4c5b53f89dd324f14c6)
+![Texto Alternativo](https://opencircuit.pt/blog/breadboards-beginners-tips-tricks)
 * **Linhas Laterais (+ e -):** Conectadas horizontalmente (geralmente usadas para Alimentação e GND).
 * **Colunas Centrais (A, B, C...):** Conectadas verticalmente. Componentes em uma mesma coluna estão interligados.
 
@@ -54,5 +54,27 @@ void loop() {
   digitalWrite(13, HIGH); // Liga o pino 13
   delay(1000);            // Espera 1 segundo (1000 milissegundos)
   digitalWrite(13, LOW);  // Desliga o pino 13
+```
+
+## 5. Hands-on: Projetos Práticos (Tinkercad)
+
+Abaixo estão os circuitos que montamos em sala. Você pode acessar, simular e clonar os projetos para a sua conta do Tinkercad.
+
+### 📌 Projeto 1: O Clássico "Blink" (LED Piscante)
+* **Objetivo:** Entender a estrutura do código e piscar o LED interno ou externo da placa.
+* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/8e0JVs0XIkS-piscar-led?sharecode=gArm6r9YNDej1UjMA3wRUVlKIsRTbIhTxOtzGGzutEY)
+* **Código-Fonte:** [Acesse o arquivo .ino aqui](./codigos/01_blink/01_blink.ino)
+
+### 📌 Projeto 2: Semáforo Simples
+* **Objetivo:** Controlar múltiplos pinos de saída e entender a lógica de temporização (delay).
+* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/7qqBCRAADpz-semaforo?sharecode=n0WVxvMn9ypyis9DsvZcOYT729LrCP385Alz98l5TmY)
+* **Código-Fonte:** [Acesse o arquivo .ino aqui](./codigos/02_semaforo/02_semaforo.ino)
+
+---
+
+## Materiais de Referência Recomendados
+
+* [Documentação Oficial do Arduino (Reference)](https://www.arduino.cc/reference/pt/)
+* [Simulador Tinkercad Circuits](https://www.tinkercad.com/)
   delay(1000);            // Espera 1 segundo
 }

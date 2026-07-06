@@ -24,7 +24,7 @@ Para criar circuitos em IoT, precisamos entender três grandezas fundamentais (L
 | **Corrente (I)** | Ampères (A) | É o fluxo de elétrons passando pelo circuito. |
 | **Resistência (R)** | Ohms ($\Omega$) | É a oposição ao fluxo de elétrons (protege os componentes). |
 
-> ⚠️ **Regra de Ouro:** Nunca ligue um LED diretamente na energia sem um **resistor**, ou ele irá queimar!
+> **Regra de Ouro:** Nunca ligue um LED diretamente na energia sem um **resistor**, ou ele irá queimar!
 
 ---
 
@@ -62,12 +62,12 @@ Abaixo estão os circuitos que montamos em sala. Você pode acessar, simular e c
 
 ### 📌 Projeto 1: O Clássico "Blink" (LED Piscante)
 * **Objetivo:** Entender a estrutura do código e piscar o LED interno ou externo da placa.
-* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/8e0JVs0XIkS-piscar-led?sharecode=gArm6r9YNDej1UjMA3wRUVlKIsRTbIhTxOtzGGzutEY)
+* **Link do Circuito no Tinkercad:** [Clique aqui para acessar o projeto](https://www.tinkercad.com/things/8e0JVs0XIkS-piscar-led?sharecode=gArm6r9YNDej1UjMA3wRUVlKIsRTbIhTxOtzGGzutEY)
 * **Código-Fonte:** [Acesse o arquivo .ino aqui](./codigos/01_blink/01_blink.ino)
 
 ### 📌 Projeto 2: Semáforo Simples
 * **Objetivo:** Controlar múltiplos pinos de saída e entender a lógica de temporização (delay).
-* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/7qqBCRAADpz-semaforo?sharecode=n0WVxvMn9ypyis9DsvZcOYT729LrCP385Alz98l5TmY)
+* **Link do Circuito no Tinkercad:** [Clique aqui para acessar o projeto](https://www.tinkercad.com/things/7qqBCRAADpz-semaforo?sharecode=n0WVxvMn9ypyis9DsvZcOYT729LrCP385Alz98l5TmY)
 * **Código-Fonte:** [Acesse o arquivo .ino aqui](./codigos/02_semaforo/02_semaforo.ino)
 
 ---

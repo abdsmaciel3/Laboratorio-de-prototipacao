@@ -54,6 +54,8 @@ void loop() {
   digitalWrite(13, HIGH); // Liga o pino 13
   delay(1000);            // Espera 1 segundo (1000 milissegundos)
   digitalWrite(13, LOW);  // Desliga o pino 13
+  delay(1000);            // Espera 1 segundo
+}
 ```
 
 ## 5. Hands-on: Projetos Práticos (Tinkercad)
@@ -76,5 +78,3 @@ Abaixo estão os circuitos que montamos em sala. Você pode acessar, simular e c
 
 * [Documentação Oficial do Arduino (Reference)](https://www.arduino.cc/reference/pt/)
 * [Simulador Tinkercad Circuits](https://www.tinkercad.com/)
-  delay(1000);            // Espera 1 segundo
-}

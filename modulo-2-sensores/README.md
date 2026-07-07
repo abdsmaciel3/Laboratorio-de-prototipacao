@@ -41,14 +41,14 @@ Abaixo estão os links para os circuitos simulados em aula. Acesse para clonar, 
 
 ### 📌 Projeto 1: Alarme de Barreira Laser (Laser Tripwire)
 * **Conceito:** O laser (Atuador) fica apontado para o LDR (Sensor). Se um intruso cortar o feixe, o valor de luz cai e o sistema aciona o Buzzer e o LED de alerta.
-* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/evifhdRcFBl-alarme-de-barreira-laser-laser-tripwire?sharecode=jhfkc7i6cNbMF2EJ2lFPNzfQsZ0FKU-XISgL9SsjtYs)
+* **Link do Circuito no Tinkercad:** [ Clique aqui para acessar o projeto](https://www.tinkercad.com/things/evifhdRcFBl-alarme-de-barreira-laser-laser-tripwire?sharecode=jhfkc7i6cNbMF2EJ2lFPNzfQsZ0FKU-XISgL9SsjtYs)
 
 ### 📌 Projeto 2: Sensor de Ré Inteligente
 * **Conceito:** O Sensor Ultrassônico (Sensor) mede a distância de um obstáculo. Se o objeto chegar a menos de 100cm, o Buzzer (Atuador) começa a bipar de forma intermitente, acelerando o som conforme a proximidade.
-* **Link do Circuito no Tinkercad:** [🔗 Clique aqui para acessar o projeto](https://www.tinkercad.com/things/dLJhNIvax75-sensor-de-re-?sharecode=IoAbnmTQDotmLXIUOjJaz8KFk_OnuLEcCE4Bp5Q99zY)
+* **Link do Circuito no Tinkercad:** [ Clique aqui para acessar o projeto](https://www.tinkercad.com/things/dLJhNIvax75-sensor-de-re-?sharecode=IoAbnmTQDotmLXIUOjJaz8KFk_OnuLEcCE4Bp5Q99zY)
 
 ---
 
-## 📚 Leituras Recomendadas
-* [Como funciona o Sensor Ultrassônico HC-SR04](https://www.arduino.cc/reference/pt/)
-* [Guia sobre Divisor de Tensão com LDR](https://www.tinkercad.com/)
+## Leituras Recomendadas
+* [Como funciona o Sensor Ultrassônico HC-SR04](https://www.makerhero.com/guia/sensores/sensor-ultrassonico/?srsltid=AfmBOopI5_glKx8egasvQY3lCwZMACXNjhkQVFSdmYTe9s5r7c7Eqfsd)
+* [Guia sobre Divisor de Tensão com LDR](https://laboratoriodeprojetos.com.br/divisor-de-tensao/)

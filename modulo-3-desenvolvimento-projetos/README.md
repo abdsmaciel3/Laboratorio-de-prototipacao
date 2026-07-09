@@ -24,12 +24,12 @@ Este projeto simula o desenvolvimento real de um produto de engenharia. Começam
 
 #### Roteiro de Implementação:
 
-| Passo | O que foi implementado? | Código de Referência |
-| :--- | :--- | :--- |
-| **Passo 1** | **Semáforo Simples:** Lógica básica de tempo para os carros (Verde, Amarelo, Vermelho). | [Acessar Código](./projeto-2-semaforo-avancado/passo_1_simples.ino) |
-| **Passo 2** | **Sinal de Pedestre com Botão:** Adicionados LEDs para pedestres. O sinal dos carros só fecha se o pedestre apertar o botão. | [Acessar Código](./projeto-2-semaforo-avancado/passo_2_pedestre.ino) |
-| **Passo 3** | **Acessibilidade Sonora:** Inclusão de um Buzzer. Emite bipes lentos quando o sinal de pedestre vai fechar e bipes rápidos quando está seguro para atravessar. | [Acessar Código](./projeto-2-semaforo-avancado/passo_3_acessibilidade.ino) |
-| **Passo 4** | **Cancela Física (Servo Motor):** Automação física instalada. Um servo motor fecha uma barreira se o sinal do carro estiver vermelho e abre quando fica verde. | [Acessar Código](./projeto-2-semaforo-avancado/passo_4_completo_cancela.ino) |
+| Passo | O que foi implementado? | Código de Referência | Simulação no Tinkercad |
+| :--- | :--- | :--- | :--- |
+| **Passo 1** | **Semáforo Simples:** Lógica básica de tempo para os carros (Verde, Amarelo, Vermelho). | [Acessar Código](./projeto-2-semaforo-avancado/passo_1_simples.ino) | [Tinkercad](https://www.tinkercad.com/things/6eOSX7mFpVK-semaforo-passo-1?sharecode=rtfchwLSlxVdjgdD_3gxuvqjhc6lwn9NajYk0lQANLk) |
+| **Passo 2** | **Sinal de Pedestre com Botão:** Adicionados LEDs para pedestres. O sinal dos carros só fecha se o pedestre apertar o botão. | [Acessar Código](./projeto-2-semaforo-avancado/passo_2_pedestre.ino) |[Tinkercad](https://www.tinkercad.com/things/ktdlVuRvRAh-passo-2-semaforo-com-botao?sharecode=K6g8PCOrrb4aq9I5Fl44nGOAOH-I57AEq0U-WvAZtkI) |
+| **Passo 3** | **Acessibilidade Sonora:** Inclusão de um Buzzer. Emite bipes lentos quando o sinal de pedestre vai fechar e bipes rápidos quando está seguro para atravessar. | [Acessar Código](./projeto-2-semaforo-avancado/passo_3_acessibilidade.ino) | [Tinkercad](https://www.tinkercad.com/things/8szeBCg2s3L-passo-3?sharecode=cAxKQJTu4kxp7Nv3P7geTUM2rsBIYVWvnI6WOCoJy7g) |
+| **Passo 4** | **Cancela Física (Servo Motor):** Automação física instalada. Um servo motor fecha uma barreira se o sinal do carro estiver vermelho e abre quando fica verde. | [Acessar Código](./projeto-2-semaforo-avancado/passo_4_completo_cancela.ino) | [Tinkercad](https://www.tinkercad.com/things/7bBaJjoEcdS-passo-4-implementar-com-uma-cancela?sharecode=JDRIvWBEGTiGfpMWl6COT9p7MS3gzHcICLb1vvD7kPg) |
 
 * **Links Úteis:**
   * [ Simulação do Projeto Completo (Passo 4) no Tinkercad](https://www.tinkercad.com/things/7bBaJjoEcdS-passo-4-implementar-com-uma-cancela?sharecode=JDRIvWBEGTiGfpMWl6COT9p7MS3gzHcICLb1vvD7kPg)
